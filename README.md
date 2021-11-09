@@ -11,7 +11,7 @@ Core business : After invest the Bitcoin mining machines,All revenue from the Bi
 
 Satrunworld is an investment project with compound interest. 
 
-Other business : STW will be the Fiat as the USDT\ETH in our Decentralized OTC transaction platform.The price of STW will be more stable during the platform runing and STW will become a crypto with greater investment value. 
+Other business : STW will be the Fiat as USDT\ETH in our Decentralized OTC transaction platform.The price of STW will be more stable during the platform runing and STW will become a crypto with greater investment value. 
 
 
 ## Token Economics
