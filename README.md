@@ -16,7 +16,7 @@ Other business : STW will be the Fiat as USDT\ETH in our Decentralized OTC trans
 
 ## Token Economics
 
-Total volume: 500 billion
+Total volume: 50 billion
 
 Token Contract (ERC20): 0x5db63d676e127ff20866a4b2c9d8ac79264214e7
 
