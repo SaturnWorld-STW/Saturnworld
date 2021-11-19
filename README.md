@@ -32,5 +32,5 @@ step3. Use Bitcoin mining machine revenue to repurchase 500 million coins and di
 ***The next round of STW will release if the rate of lock tokens is over 65%.
 
 ## STW Destruction
-All unreleased STW will be destroyed at once when the market value of STW reaches 15 billion dollars.
+All unreleased STW will be destroyed at once when the market value of STW reaches 6 billion dollars.
 
