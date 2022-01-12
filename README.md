@@ -1,15 +1,12 @@
 ## What' Saturnworld doing?
 
 1.Invest in Bitcoin mining machines.
-
-2. Decentralized OTC platform.
+2.Decentralized OTC platform.
 
 
 ## What are the benefits of doing these Business?
 
 1.After invest the Bitcoin mining machines,All revenue from the Bitcoin mining will be distributed to all Lock holders in the form of dividends.All holders will get profit from the increase price of STW and dividend from Bitcoin mining.
-
-Satrunworld is an investment project with compound interest. 
 
 2.Users can quickly use cash to buy or sell crypto and no need to trade through any centralized exchange. The crypto purchased through the OTC platform will be directly transferred to the user's wallet,which ensures the safety of the user's assets.
 
