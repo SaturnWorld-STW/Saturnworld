@@ -29,6 +29,5 @@ step3. Use Bitcoin mining machine revenue to repurchase 200 million coins and di
 ***60% of the funds obtained in each round of release of STW will be used for Bitcoin Mining machine.30% will be injected into the UNISWAP.10% as developer fee.
 ***The next round of STW will release if the rate of lock tokens is over 65%.
 
-## STW Destruction
-All unreleased STW will be destroyed at once when the market value of STW reaches 6 billion dollars.
+
 
