@@ -4,7 +4,7 @@
 
 2\SaturnPool - Paticipate in ETH2.0 staking
 
-3\SaturnDapp
+3\SaturnDapp V2
 
 4\SaturnX - Decentralized CEX
 
@@ -21,10 +21,11 @@ Burned:45 billion (90%)
 
 The distribution is as follows
 
-90% (Total : 5 billion) in Circulation
+67.5%(Total:3.375 billion)in Circulation
 
-10% (Total : 500 million)  Team Fee and Marketing
+22.5%(Total:1.125 billion)Deflation
 
+10%(Total:0.5 billion)Development and Marketing
 
 ## Resources
 
